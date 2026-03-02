@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arch3dprint.com/sitemap.xml
